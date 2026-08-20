@@ -90,6 +90,25 @@ Azure Virtual Machines
 - Autoscaling
 - Azure Portal administration
 
+## Task 1: Deploy Zone-Resilient Azure Virtual Machines
+
+![Task 1 - Availability Zones](screenshots/task1-availability-zones.png)
+## Task 2: Manage Compute and Storage Scaling
+
+![Task 2 - VM Resize](screenshots/task2-vm-resize.png)
+
+![Task 2 - Disk Scaling](screenshots/task2-disk-scaling.png)
+## Task 3: Create and Configure Virtual Machine Scale Sets
+
+![Task 3 - VMSS](screenshots/task3-vmss.png)
+
+![Task 3 - Networking](screenshots/task3-networking.png)
+
+![Task 3 - Load Balancer](screenshots/task3-load-balancer.png)
+## Task 4: Configure Autoscaling
+
+![Task 4 - Autoscaling](screenshots/task4-autoscaling.png)
+
 ## Evidence
 
 Screenshots from the completed lab are available in the `screenshots` directory.
