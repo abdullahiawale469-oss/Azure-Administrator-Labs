@@ -1,1 +1,9 @@
-
+screenshots
+│
+├── task1-availability-zones.png
+├── task2-vm-resize.png
+├── task2-disk-scaling.png
+├── task3-vmss.png
+├── task3-networking.png
+├── task3-load-balancer.png
+└── task4-autoscaling.png
